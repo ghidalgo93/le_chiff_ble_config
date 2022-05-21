@@ -6,7 +6,7 @@ This is the [zmk](https://zmk.dev) firmware for the [le_chiffre ble](https://git
 
 - fork this repo
 - `git clone` your repo (if you have issues with git, try something like [gitkraken](https://www.gitkraken.com/) or read a [tutorial](https://www.atlassian.com/git/tutorials))
-- adjust the `.keymap` file (find all the keycodes on [the zmk docs pages](https://zmk.dev/docs/codes/))
+- adjust the `.keymap` file (find all the keycodes on [the zmk docs pages](https://zmk.dev/docs/codes/)) done
 - `git push` your repo 
 - on the GitHub page of your repo navigate to "Actions"
 - download and unzip the `.zip` Archive that contains the latest firmware
